@@ -153,6 +153,20 @@ img {
     font-weight: bold;
 }
 
+.pim a {
+    
+    padding: 10px 90px 10px 90px;
+    position: relative;
+    bottom: 40px;
+    left: 30px;
+    text-align: center;
+    background-color: #4aaaa5;
+    
+    height: 40px;
+    color: white;
+    font-weight: bold;
+}
+
 form {
     padding-top: 10px;
     padding-left: 10px;
